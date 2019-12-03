@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "errormanager", "errormanager\errormanager.csproj", "{16F6757C-343F-49A7-B14E-954E51EB8FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F6757C-343F-49A7-B14E-954E51EB8FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F6757C-343F-49A7-B14E-954E51EB8FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F6757C-343F-49A7-B14E-954E51EB8FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F6757C-343F-49A7-B14E-954E51EB8FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E03B7B-0079-4B66-966B-124C7DF4C8ED}
+	EndGlobalSection
+EndGlobal
